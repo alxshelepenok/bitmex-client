@@ -608,10 +608,10 @@
     resize-observer-polyfill "^1.5.1"
     tslib "~1.9.0"
 
-"@blueprintjs/core@^3.37.0":
-  version "3.37.0"
-  resolved "https://registry.yarnpkg.com/@blueprintjs/core/-/core-3.37.0.tgz#df8c726388b0fa2734e747ce182c54ede97895ac"
-  integrity sha512-GM3O9ndC3A1cFCSEUwc2Lq+blYOTiosI4eG4aQEftgCPwSTthFzAif3blf576baWjjC34gcc7weWTSRW7KyZHQ==
+"@blueprintjs/core@^3.38.0":
+  version "3.38.0"
+  resolved "https://registry.yarnpkg.com/@blueprintjs/core/-/core-3.38.0.tgz#9b8eb086e22b424153fa0e1483c4c8abd9e6c8e0"
+  integrity sha512-U4yf6B+SbCspNDuvSU2/pl+a80hr9iQgyf2cJ2cOz5It+RV8M+dg9BgB1WaZgqdWgxx/4+A425X5zt2Jw9xalw==
   dependencies:
     "@blueprintjs/icons" "^3.24.0"
     "@types/dom4" "^2.0.1"
@@ -641,12 +641,12 @@
     classnames "^2.2"
     tslib "~1.9.0"
 
-"@blueprintjs/select@3.15.1":
-  version "3.15.1"
-  resolved "https://registry.yarnpkg.com/@blueprintjs/select/-/select-3.15.1.tgz#93b2447a3b7f8198da42020b038b6405550111cb"
-  integrity sha512-eF02TqPzx/9Jwr3ITiWaLnVlVIkrAeYEl6GEyaxJwPD1N78qDkcbF/mTAr884s/U163s+g4bQVGCuZzuVoYH8g==
+"@blueprintjs/select@3.15.2":
+  version "3.15.2"
+  resolved "https://registry.yarnpkg.com/@blueprintjs/select/-/select-3.15.2.tgz#89237fb129076277be98535a4e3c0e053ad4f83a"
+  integrity sha512-3uY89fSxH4zrvZObDx1SEr/K3KizjgY7Z/005/acFkSN+2GFSD9GU5rmwEQfBDdHk5VjqHEWykD5c8YySH1nDA==
   dependencies:
-    "@blueprintjs/core" "^3.37.0"
+    "@blueprintjs/core" "^3.38.0"
     classnames "^2.2"
     tslib "~1.13.0"
 
