@@ -53,7 +53,7 @@
     "@types/http-proxy": "1.17.5",
     "@types/jest": "26.0.20",
     "@types/node": "12.19.15",
-    "@types/react": "17.0.0",
+    "@types/react": "17.0.1",
     "@types/react-dom": "17.0.0",
     "@types/react-helmet": "6.1.0",
     "@types/react-router-dom": "5.1.7",
