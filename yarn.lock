@@ -608,12 +608,12 @@
     resize-observer-polyfill "^1.5.1"
     tslib "~1.9.0"
 
-"@blueprintjs/core@^3.40.0":
-  version "3.40.0"
-  resolved "https://registry.yarnpkg.com/@blueprintjs/core/-/core-3.40.0.tgz#b396718f700b8545c390e5b2e0b58e1ffbe59708"
-  integrity sha512-vb0xIO0cF+udhYYS/1wUKnZin7frQTIP3NOGETOpmvUZOqAfxM0447+LsaBYvLmkEdTm0uD6IR0bklQPw21eAw==
+"@blueprintjs/core@^3.40.1":
+  version "3.40.1"
+  resolved "https://registry.yarnpkg.com/@blueprintjs/core/-/core-3.40.1.tgz#786f3bffa9f7c6e0f80b2935ae13a425a237b7c0"
+  integrity sha512-trZMuv84vbIJKJYZ7YkMB+Eth1H74KeJrY07pJhlbmbsGTbBc7Pj1Lx2858PgyIaO9HpaHaBS2+VPmMFkt8muw==
   dependencies:
-    "@blueprintjs/icons" "^3.25.0"
+    "@blueprintjs/icons" "^3.25.1"
     "@types/dom4" "^2.0.1"
     classnames "^2.2"
     dom4 "^2.1.5"
@@ -625,7 +625,7 @@
     resize-observer-polyfill "^1.5.1"
     tslib "~1.13.0"
 
-"@blueprintjs/icons@3.25.1":
+"@blueprintjs/icons@3.25.1", "@blueprintjs/icons@^3.25.1":
   version "3.25.1"
   resolved "https://registry.yarnpkg.com/@blueprintjs/icons/-/icons-3.25.1.tgz#530c06a72b759da5c3cfbb01eaf2ab987a67129d"
   integrity sha512-AppGf5IyjjKa/Zlre4pHWbDnsI7nefurXKku8Yf/B14bDAB2a8lzP6HCoTowAW4fHryTwE5Pzp9zEJYvofkUEg==
@@ -641,20 +641,12 @@
     classnames "^2.2"
     tslib "~1.9.0"
 
-"@blueprintjs/icons@^3.25.0":
-  version "3.25.0"
-  resolved "https://registry.yarnpkg.com/@blueprintjs/icons/-/icons-3.25.0.tgz#5f2bfff857faff97e0ebf44fc981a607e0bdec9d"
-  integrity sha512-WbGjMIJiUwrOTkBk66B6AV605d+HZJT0SoW+fh429UJPTtcm+7T/+bRxQlQeXfLvgR+bTW5P6rx6cM4D/B4uww==
+"@blueprintjs/select@3.15.7":
+  version "3.15.7"
+  resolved "https://registry.yarnpkg.com/@blueprintjs/select/-/select-3.15.7.tgz#5d263588d4b11c8fed332877d3b957d6b54afdc1"
+  integrity sha512-PZ1hh0bQjtSwNd2n1xr+D5XCZms72soDjgjLWUIGPIZIpZjmf+WpZFXJYME9AUWw55bCDPeZ9sUBa7/XEpazQQ==
   dependencies:
-    classnames "^2.2"
-    tslib "~1.13.0"
-
-"@blueprintjs/select@3.15.6":
-  version "3.15.6"
-  resolved "https://registry.yarnpkg.com/@blueprintjs/select/-/select-3.15.6.tgz#f3852fdeb03a26110702fdf65e788f64edb83b3f"
-  integrity sha512-e+2n+hAxHM1GC67Yr3VFWpaX5571HBpAPcceQkhXT8hYR8cECtV2j7AKlJQ+F9Sn+LsIQPI9auVQMnomSjx/Hw==
-  dependencies:
-    "@blueprintjs/core" "^3.40.0"
+    "@blueprintjs/core" "^3.40.1"
     classnames "^2.2"
     tslib "~1.13.0"
 
