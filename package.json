@@ -55,7 +55,7 @@
     "@types/node": "12.20.7",
     "@types/react": "17.0.3",
     "@types/react-dom": "17.0.3",
-    "@types/react-helmet": "6.1.0",
+    "@types/react-helmet": "6.1.1",
     "@types/react-router-dom": "5.1.7",
     "@types/react-test-renderer": "17.0.1",
     "@types/webpack": "4.32.1",
